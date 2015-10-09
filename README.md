@@ -1,5 +1,5 @@
 # Palca
 ##Practice
-[ ] one
-[ ] two
-[x] three
+- [ ] one
+- [ ] two
+- [x] three
